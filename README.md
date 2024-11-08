@@ -28,3 +28,6 @@ Pastikan Anda memiliki hal berikut untuk menjalankan aplikasi:
 
 ## DEMO
 ![Demo Aplikasi](Demo.gif)
+
+# Pembuat Aplikasi
+ Muhammad Akmal ( 2210010437 ) 
