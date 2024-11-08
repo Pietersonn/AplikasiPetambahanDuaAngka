@@ -27,5 +27,4 @@ Pastikan Anda memiliki hal berikut untuk menjalankan aplikasi:
 - Library Swing sudah termasuk dalam JDK, jadi tidak memerlukan dependensi tambahan.
 
 ## DEMO
-
-Tambahkan gambar atau GIF yang menunjukkan penggunaan aplikasi di sini.
+![Demo Aplikasi](Demo.gif)
